@@ -9,9 +9,19 @@ ratio (PAPR). Simulation results prove that the proposed system outperforms the 
 
 # Published Articles
 
-Ahmad, M., & Shin, S. Y. (2022). Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference. ICT Express.
+[1] Ahmad, M., & Shin, S. Y. (2022). Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference. ICT Express.
 
 DOI: (https://doi.org/10.1016/j.icte.2022.06.005)
+
+[2] Ahmad, M., Ramatryana, I. N. A., & Shin, S. Y. (2020). NOMA and OMA Comparison for Multiple Antenna Technologies under high Capacity Constraints for 5G and Beyond. 
+한국통신학회논문지, 45(11), 2004-2013.
+
+URL: (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10490245&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true)
+
+[3] M. S. Sawar, M. Ahmad and S. Y. Shin, "Subcarrier Index Modulation for Spectral Efficient Frequency Division Multiplexing in Multi-Input Multi-Output Channels," 
+in IEEE Transactions on Vehicular Technology, 2022, 
+
+DOI: (https://doi.org/10.1109/TVT.2022.3213011)
 
 # Massive MIMO NOMA Simulator
 
