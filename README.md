@@ -2,9 +2,9 @@
 
 # Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference
 
-Wavelet Orthogonal Frequency Division Multiplexing (OFDM) based non-orthogonal-multiple-access (NOMA) combined with massive MIMO system for 6G network 
-is acticipated in this study. For mMIMO transmissions, the suggested system could enhance the performance by utilizing wavelets and is able to compensate 
-channel impairments for the transmitted signal. Performance measures include spectral efficiency (SE), symbol error rate (SER), and peak to average power 
+Wavelet Orthogonal Frequency Division Multiplexing (OFDM) based non-orthogonal-multiple-access (NOMA) combined with a massive MIMO system for a 6G network 
+is anticipated in this study. For mMIMO transmissions, the suggested system could enhance performance by utilizing wavelets and can compensate 
+for channel impairments for the transmitted signal. Performance measures include spectral efficiency (SE), symbol error rate (SER), and peak-to-average power 
 ratio (PAPR). Simulation results prove that the proposed system outperforms the conventional fast Fourier transform (FFT) based NOMA systems.
 
 # Published Articles
@@ -13,7 +13,7 @@ ratio (PAPR). Simulation results prove that the proposed system outperforms the 
 
 DOI: (https://doi.org/10.1016/j.icte.2022.06.005)
 
-[2] Ahmad, M., Ramatryana, I. N. A., & Shin, S. Y. (2020). NOMA and OMA Comparison for Multiple Antenna Technologies under high Capacity Constraints for 5G and Beyond. 
+[2] Ahmad, M., Ramatryana, I. N. A., & Shin, S. Y. (2020). NOMA and OMA Comparison for Multiple Antenna Technologies under High Capacity Constraints for 5G and Beyond. 
 한국통신학회논문지, 45(11), 2004-2013.
 
 URL: (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10490245&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true)
@@ -25,6 +25,6 @@ DOI: (https://doi.org/10.1109/TVT.2022.3213011)
 
 # Massive MIMO NOMA Simulator
 
-To request your querry please follow the link below;
+To request your query please follow the link below;
 
-(http://wens.re.kr/news/noma-simulator-v2)
+(https://sites.google.com/view/wenslab/open-sw/massive-mimo-noma-simulator?authuser=0)
