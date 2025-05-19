@@ -10,6 +10,7 @@ ratio (PAPR). Simulation results prove that the proposed system outperforms the 
 # Published Articles
 
 [1] Ahmad M, Shin SY. Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference. ICT Express. 2023 Aug 1;9(4):635-41.
+
 [2] Ahmad M, Shin SY. Wavelet-based massive MIMO-NOMA with advanced channel estimation and detection powered by deep learning. Physical Communication. 2023 Dec 1;61:102189.
 
 DOI: (https://doi.org/10.1016/j.icte.2022.06.005)
@@ -33,6 +34,7 @@ To request your query please follow the link below;
 # Acknowledgments
 
 The above-mentioned DL-based channel estimation and detection work builds upon code from the following repository:
+
  (https://github.com/wjddn279/DeepLearning_MIMO-NOMA)
  
 I gratefully acknowledge their contribution. Please refer to their original repository for more details.
