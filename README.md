@@ -11,16 +11,12 @@ ratio (PAPR). Simulation results prove that the proposed system outperforms the 
 
 [1] Ahmad M, Shin SY. Massive MIMO NOMA with wavelet pulse shaping to minimize undesired channel interference. ICT Express. 2023 Aug 1;9(4):635-41.
 
-[2] Ahmad M, Shin SY. Wavelet-based massive MIMO-NOMA with advanced channel estimation and detection powered by deep learning. Physical Communication. 2023 Dec 1;61:102189.
-
-DOI: (https://doi.org/10.1016/j.icte.2022.06.005)
-
-[3] Ahmad, M., Ramatryana, I. N. A., & Shin, S. Y. (2020). NOMA and OMA Comparison for Multiple Antenna Technologies under High Capacity Constraints for 5G and Beyond. 
+[2] Ahmad, M., Ramatryana, I. N. A., & Shin, S. Y. (2020). NOMA and OMA Comparison for Multiple Antenna Technologies under High Capacity Constraints for 5G and Beyond. 
 한국통신학회논문지, 45(11), 2004-2013.
 
 URL: (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10490245&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
-[4] M. S. Sawar, M. Ahmad and S. Y. Shin, "Subcarrier Index Modulation for Spectral Efficient Frequency Division Multiplexing in Multi-Input Multi-Output Channels," 
+[3] M. S. Sawar, M. Ahmad and S. Y. Shin, "Subcarrier Index Modulation for Spectral Efficient Frequency Division Multiplexing in Multi-Input Multi-Output Channels," 
 in IEEE Transactions on Vehicular Technology, 2022, 
 
 DOI: (https://doi.org/10.1109/TVT.2022.3213011)
@@ -30,12 +26,4 @@ DOI: (https://doi.org/10.1109/TVT.2022.3213011)
 To request your query please follow the link below;
 
 (https://sites.google.com/view/wenslab/open-sw/massive-mimo-noma-simulator?authuser=0)
-
-# Acknowledgments
-
-The above-mentioned DL-based channel estimation and detection work builds upon code from the following repository:
-
- (https://github.com/wjddn279/DeepLearning_MIMO-NOMA)
- 
-I gratefully acknowledge their contribution. Please refer to their original repository for more details.
 
